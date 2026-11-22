@@ -126,10 +126,8 @@ Successfully retrieved, transformed and loaded all 20 Premier League team record
 
 **Final MySQL Database Output**
 
-![Premier League Standings in MySQL](<img width="1920" height="1080" alt="Screenshot 2026-11-22 063628" src="https://github.com/user-attachments/assets/6fc4472f-7296-4c14-ae46-5cfb5c49c667" />
-)
+<img width="1920" height="1080" alt="Screenshot 2026-11-22 063628" src="https://github.com/user-attachments/assets/6fc4472f-7296-4c14-ae46-5cfb5c49c667" />
 
-*The screenshot displays the final standings table after pipeline execution and UPSERT.*
 
 ### SQL Verification
 
